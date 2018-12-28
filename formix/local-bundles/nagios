@@ -1,0 +1,6 @@
+nrpe
+nrpe-bin
+nrpe-config
+nrpe-data
+nrpe-doc
+nagios-plugins

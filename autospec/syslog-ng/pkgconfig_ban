@@ -1,0 +1,12 @@
+# This file contains pkgconfig build requirements that get picked up
+# but are undesirable. One entry per line, no whitespace.
+criterion
+dbi
+geoip
+hiredis
+ivykis
+libmongoc-1.0
+librabbitmq
+libsystemd-daemon
+libsystemd-journal
+riemann-client

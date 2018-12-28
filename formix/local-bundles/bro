@@ -1,0 +1,10 @@
+# [TITLE]: new-bundle
+# [DESCRIPTION]: 
+# [STATUS]: 
+# [CAPABILITIES]:
+# [MAINTAINER]: 
+# 
+# List bundles one per line. Includes have format: include(bundle)
+actor-framework
+bro
+bro-plugin-afpacket

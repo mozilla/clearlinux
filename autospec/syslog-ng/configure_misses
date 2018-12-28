@@ -1,0 +1,47 @@
+Configure miss: CFLAGS_INITIALIZER_OVERRIDES for gcc -Winitializer-overrides
+Configure miss: dmalloc.h usability
+Configure miss: dmalloc.h presence
+Configure miss: dmalloc.h
+Configure miss: sys/strlog.h usability
+Configure miss: sys/strlog.h presence
+Configure miss: sys/strlog.h
+Configure miss: door.h usability
+Configure miss: door.h presence
+Configure miss: door.h
+Configure miss: tcpd.h usability
+Configure miss: tcpd.h presence
+Configure miss: tcpd.h
+Configure miss: struct cmsgcred
+Configure miss: door_create in -ldoor
+Configure miss: regexec in -lregex
+Configure miss: res_init in -lresolv
+Configure miss: LIBDBI
+Configure miss: dbi_initialize_r in -ldbi
+Configure miss: whether to enable SQL support
+Configure miss: whether X509_STORE_CTX_get0_cert is declared
+Configure miss: whether X509_get_extension_flags is declared
+Configure miss: whether EVP_MD_CTX_reset is declared
+Configure miss: whether ASN1_STRING_get0_data is declared
+Configure miss: whether DH_set0_pqg is declared
+Configure miss: whether BN_get_rfc3526_prime_2048 is declared
+Configure miss: CRITERION
+Configure miss: RIEMANN_CLIENT
+Configure miss: whether to enable Sun STREAMS support
+Configure miss: whether to enable OpenBSD system source support
+Configure miss: `altzone' variable in time.h
+Configure miss: process.h usability
+Configure miss: process.h presence
+Configure miss: sys/devpoll.h usability
+Configure miss: sys/devpoll.h presence
+Configure miss: sys/devpoll.h
+Configure miss: sys/thr.h
+Configure miss: thread.h usability
+Configure miss: thread.h presence
+Configure miss: thread.h
+Configure miss: CLOCK_MONOTONIC_FAST
+Configure miss: library containing thr_self
+Configure miss: gettid
+Configure miss: lwp_gettid
+Configure miss: port_create
+Configure miss: thr_self
+Configure miss: whether gcc accepts -pthreads

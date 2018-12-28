@@ -1,0 +1,1 @@
+--build-type=Release --no-examples --no-qt-examples --no-protobuf-examples --no-curl-examples --no-unit-tests --no-opencl --no-nexus --no-cash --no-benchmarks --no-riac

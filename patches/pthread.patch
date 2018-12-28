@@ -1,0 +1,12 @@
+diff -ur bro-2.5.9271b2032.orig/aux/broker/tests/CMakeLists.txt bro-2.5.9271b2032/aux/broker/tests/CMakeLists.txt
+--- bro-2.5.9271b2032.orig/aux/broker/tests/CMakeLists.txt	2018-03-23 21:29:56.000000000 -0700
++++ bro-2.5.9271b2032/aux/broker/tests/CMakeLists.txt	2018-03-23 23:06:20.000000000 -0700
+@@ -13,7 +13,7 @@
+         add_executable(${name} ${name}.cc)
+     endif ()
+ 
+-    target_link_libraries(${name} ${libbroker})
++    target_link_libraries(${name} ${libbroker} -lpthread)
+ 
+     if ( ${ARGC} EQUAL 1 )
+         add_test(NAME ${name} COMMAND ${name})

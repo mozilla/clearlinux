@@ -1,0 +1,12 @@
+# [TITLE]: syslog-ng
+# [DESCRIPTION]: 
+# [STATUS]: 
+# [CAPABILITIES]:
+# [MAINTAINER]: 
+# 
+# List bundles one per line. Includes have format: include(bundle)
+syslog-ng
+syslog-ng-bin
+syslog-ng-lib
+syslog-ng-data
+rabbitmq-c
